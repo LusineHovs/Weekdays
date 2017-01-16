@@ -30,6 +30,7 @@ namespace WeekdaysIndex
             {
                 Console.WriteLine($"The {i+1}st day of the week is {days[i]}");
             }
+            Console.Read();
         }
     }
 }
