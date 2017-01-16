@@ -14,7 +14,7 @@ public string this[int index]
         }
  ```
  
- The # Output of executable file is the following
+ The **Output** of executable file is the following
  
 - The 1st day of the week is Sunday
 - The 2st day of the week is Monday
