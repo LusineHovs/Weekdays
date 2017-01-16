@@ -1,7 +1,7 @@
 # Weekdays
 Indexing the weekdays (C# 6.0)
 
-In **Weekdays** repository you can find **Weekdays class*, where by using indexer method weekdays were indexed from 0-6.
+In **Weekdays** repository you can find **Weekdays class**, where by using indexer method weekdays were indexed from 0-6.
 ```C#
 public string this[int index]
         {
