@@ -18,10 +18,3 @@ public string this[int index]
  
  <img src="https://cloud.githubusercontent.com/assets/24455176/21984295/b7138528-dc0e-11e6-8d76-3985ad86f8b8.png" align="left"  />
  
-- The 1st day of the week is Sunday
-- The 2st day of the week is Monday
-- The 3st day of the week is Tuesday
-- The 4st day of the week is Wednesday
-- The 5st day of the week is Thursday
-- The 6st day of the week is Friday
-- The 7st day of the week is Saturday
