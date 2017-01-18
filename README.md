@@ -1,5 +1,7 @@
 # Weekdays
-Indexing the weekdays (C# 6.0)
+Indexing the weekdays 
+#Keywords
+C# 6.0, .Net Framework 4.6, Microsoft Visual Studio.
 
 In **Weekdays** repository you can find **Weekdays class**, where by using indexer method weekdays were indexed from 0-6.
 ```C#
